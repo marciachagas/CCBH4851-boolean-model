@@ -6,3 +6,4 @@ In this repository are:
   - the python code to compute conserved genes in last n time steps (find_basin.py),
   - the text containing instructions and command lines (commands.txt).
 
+Algorithms designed by Marcelo Trindade dos Santos, member of the Computational Modeling of Multidrug-resistant Bacteria research group (Fiocruz).
