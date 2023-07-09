@@ -3,7 +3,7 @@ import numpy as np
 import matplotlib.pyplot as plt
 
 # check stationary genes in boolean evolution for last n time steps:
-nsteps=5
+nsteps=1000
 
 if len(sys.argv) < 2:
   print("Call this script parsing the file containing the trajectories calculated with ASSA-PBN")
