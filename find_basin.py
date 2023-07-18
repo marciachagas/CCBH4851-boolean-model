@@ -62,5 +62,3 @@ plt.xticks(y_pos, genes)
 
 # Show graphic
 plt.show()
-
-
