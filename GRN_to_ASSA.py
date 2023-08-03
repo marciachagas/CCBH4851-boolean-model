@@ -9,6 +9,8 @@
 # Boolean rules are written for those nodes having at least an input edge
 #
 # Use this script parsing the .csv file containing the GRN and file name .pbn for writing in ASSA-PBN input format
+#
+# Also generates the file conserved_genes.csv containing the gene names of regulators that are not targets.
 # 
 # (Runs in Python 3.8.10).
 
@@ -36,7 +38,9 @@ def main():
     
     # this function prints ASSA-PBN input file:
     print_assa_format(grn, sys.argv[2])
-    print("generated file ", sys.argv[2])
+    print("generated file: ", sys.argv[2])
+    print( "generated file: ", "conserved_genes.csv")
+
 
  
     
@@ -60,10 +64,14 @@ def read_grn(file_name):
                 if row['Target gene'] not in targets:
                     targets.append(row['Target gene'])
 
-            # a node to be relevant for attractors landscape calculations needs to have at least one output edge 
-            
-            nodes = tfs
+        # a node to be relevant for attractors landscape calculations needs to have at least one output edge 
+        nodes = tfs
 
+        # Identify regulators that are not targets (conserved genes in the dynamics)
+        with open("conserved_genes.csv", "w") as file_genes:
+            for g in tfs:
+                if g not in targets:
+                    print(g, file = file_genes)
         
         # Defining sub-network interactions data structures 
         with open(file_name, "r") as f_name:
