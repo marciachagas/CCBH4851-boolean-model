@@ -9,4 +9,4 @@ In this repository are:
   - Binarized gene data from the core subnetwork (genes-bin.zip);
   - Simulation trajectory results and attraction basins (sim.zip).
 
-Algorithms designed by Marcelo Trindade dos Santos, member of the Computational Modeling of Multidrug-resistant Bacteria research group (Fiocruz).
+Algorithms designed by Marcelo Trindade dos Santos (LNCC/MCTI), member of the Computational Modeling of Multidrug-resistant Bacteria research group (Fiocruz).
