@@ -15,14 +15,14 @@ Algorithms designed by Marcelo Trindade dos Santos (LNCC/MCTI), member of the Co
 ##  **Information about the RNA-seq _bulk_ experiments:**
  
 For Antibiotic Growth Curves:
-  - _Pseudomonas aeruginosa_ was incubated for 10 hours (growth curve) in Mueller-Hinton medium. After this period, antimicrobials were added:
+  _Pseudomonas aeruginosa_ was incubated for 10 hours (growth curve) in Mueller-Hinton medium. After this period, antimicrobials were added:
 
-  - Imipenem = 128 mg/l
-  - Polymyxin B = 1 mg/ml
-  - Control (without addition of antibiotic)
-  - The cultures were further incubated for 1 hour, and then 1 ml was collected from each tube to perform RNA extraction (500 μl from each tube + 2 volumes of RNA protect).
+    - Imipenem = 128 mg/l
+    - Polymyxin B = 1 mg/ml
+    - Control (without addition of antibiotic)
+  The cultures were further incubated for 1 hour, and then 1 ml was collected from each tube to perform RNA extraction (500 μl from each tube + 2 volumes of RNA protect).
 
-  - For biofilm studies, the same inoculum used for the growth curves was used to inoculate a 12-well plate. After 24 hours of incubation at 37°C, the planktonic cells were transferred to tubes for OD600 reading.
+  For biofilm studies, the same inoculum used for the growth curves was used to inoculate a 12-well plate. After 24 hours of incubation at 37°C, the planktonic cells were transferred to tubes for OD600 reading.
   - The biofilm adhered to the plate was suspended in 3 ml of PBS (same volume as used at the beginning of the experiment). OD600 reading was also performed on this suspension.
 
   - 1 ml of the biofilm suspension was collected for RNA extraction. RNAs were extracted using the RNeasy Minikit from Qiagen.
