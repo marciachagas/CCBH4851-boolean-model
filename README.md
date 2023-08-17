@@ -1,5 +1,5 @@
 
-##In this repository are:
+##  In this repository are:
 
   - the CCBH-2022 in csv format (CCBH-2022.csv),
   - the python code to generate the input file for the ASSA-PBN software (GRN_to_ASSA.py),
@@ -12,7 +12,7 @@
 Algorithms designed by Marcelo Trindade dos Santos (LNCC/MCTI), member of the Computational Modeling of Multidrug-resistant Bacteria research group (Fiocruz).
 
 
-##**Information about the RNA-seq * *bulk* * experiments:**
+##  **Information about the RNA-seq * *bulk* * experiments:**
 
 For Antibiotic Growth Curves:
   - Pseudomonas aeruginosa was incubated for 10 hours (growth curve) in Mueller-Hinton medium. After this period, antimicrobials were added:
