@@ -15,7 +15,7 @@ Algorithms designed by Marcelo Trindade dos Santos (LNCC/MCTI), member of the Co
 ##  **Information about the RNA-seq * *bulk* * experiments:**
 
 For Antibiotic Growth Curves:
-  - Pseudomonas aeruginosa was incubated for 10 hours (growth curve) in Mueller-Hinton medium. After this period, antimicrobials were added:
+  - * *Pseudomonas aeruginosa* * was incubated for 10 hours (growth curve) in Mueller-Hinton medium. After this period, antimicrobials were added:
 
   - Imipenem = 128 mg/l
   - Polymyxin B = 1 mg/ml
