@@ -17,9 +17,9 @@ Algorithms designed by Marcelo Trindade dos Santos (LNCC/MCTI), member of the Co
 For Antibiotic Growth Curves:
   - _Pseudomonas aeruginosa_ was incubated for 10 hours (growth curve) in Mueller-Hinton medium. After this period, antimicrobials were added:
 
-      -- Imipenem = 128 mg/l
-      -- Polymyxin B = 1 mg/ml
-      -- Control (without addition of antibiotic)
+      -Imipenem = 128 mg/l
+      -Polymyxin B = 1 mg/ml
+      -Control (without addition of antibiotic)
     
   - The cultures were further incubated for 1 hour, and then 1 ml was collected from each tube to perform RNA extraction (500 μl from each tube + 2 volumes of RNA protect).
 
