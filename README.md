@@ -12,7 +12,7 @@ In this repository are:
 Algorithms designed by Marcelo Trindade dos Santos (LNCC/MCTI), member of the Computational Modeling of Multidrug-resistant Bacteria research group (Fiocruz).
 
 
-#**Information about the RNA-seq * *bulk* * experiments:**
+# **Information about the RNA-seq * *bulk* * experiments:**
 
 ##For Antibiotic Growth Curves:
   - Pseudomonas aeruginosa was incubated for 10 hours (growth curve) in Mueller-Hinton medium. After this period, antimicrobials were added:
