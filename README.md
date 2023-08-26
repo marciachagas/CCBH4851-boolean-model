@@ -4,8 +4,9 @@
   - the CCBH-2022 in csv format (CCBH-2022.csv),
   - the python code to generate the input file for the ASSA-PBN software (GRN_to_ASSA.py),
   - the python code to compute conserved genes in last n time steps (find_basin.py),
-  - the text containing detailed instructions and command lines (commands.txt).
-  - Simulation trajectory results and attraction basins (sim.zip). The normalization and binarization results are also in this file. For enhanced folder navigation, it is important to read the README file contained within it
+  - the text containing detailed instructions and command lines (commands.txt),
+  - the binarization code of the RNA-seq data in R language (bin.R),
+  - Simulation trajectory results and attraction basins (sim.zip). The normalization and binarization results are also in this file. For enhanced folder navigation, it is important to read the README file contained within it.
 
 Algorithms designed by Marcelo Trindade dos Santos (LNCC/MCTI), member of the Computational Modeling of Multidrug-resistant Bacteria research group (Fiocruz).
 
