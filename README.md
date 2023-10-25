@@ -6,6 +6,7 @@
   - the python code to compute conserved genes in last n time steps (find_basin.py),
   - the text containing detailed instructions and command lines (commands.txt),
   - the binarization code of the RNA-seq data in R language (bin.R),
+  - core-genes.csv: the core subnetwork containing 212 genes divided into 166 with both incoming and outgoing edges, and 46 genes with only outgoing edges.
   - Simulation trajectory results and attraction basins (sim.zip). The normalization and binarization results are also in this file. For enhanced folder navigation, it is important to read the README file contained within it.
 
 Algorithms designed by Marcelo Trindade dos Santos (LNCC/MCTI), member of the Computational Modeling of Multidrug-resistant Bacteria research group (Fiocruz).
